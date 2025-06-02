@@ -1,2 +1,5 @@
 Flask
 yfinance
+request
+render_template
+jsonify
